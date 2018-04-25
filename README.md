@@ -1,5 +1,4 @@
 # calculator-with-Javascript
-# calculator with Javascript
 ####This is a calcualtor app made with Javsscript 
 #### By **Alice Njambi**
 ## Description
